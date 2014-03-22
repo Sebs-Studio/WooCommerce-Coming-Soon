@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coming Soon v1.0.0\n"
+"POT-Creation-Date: 2014-03-22 17:20+0100\n"
+"PO-Revision-Date: 2014-03-22 17:20+0100\n"
+"Last-Translator: Sebastien <sebastien@ocean-themes.com>\n"
+"Language-Team: Sebs Studio <sebastien@sebs-studio.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:20
+msgid "Set for Coming Soon?"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:22
+msgid "Make sure that you have set the stock to \"Out of Stock\"."
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:28
+msgid "Coming Soon Label"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:29
+#: includes/woocommerce-coming-soon-functions.php:25
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/admin/post-types/meta-boxes/class-wc-coming-soon-meta-box-product-data.php:31
+msgid ""
+"Enter the label you want to show if coming soon is set. Default: Coming Soon"
+msgstr ""
+
+#: woocommerce-coming-soon.php:161
+msgid "Documentation"
+msgstr ""
+
+#: woocommerce-coming-soon.php:162
+msgid "Support"
+msgstr ""
+
+#: woocommerce-coming-soon.php:163
+msgid "Donate"
+msgstr ""
+
+#: woocommerce-coming-soon.php:164
+msgid "More WooCommerce Extensions"
+msgstr ""
+
+#: woocommerce-coming-soon.php:225
+#, php-format
+msgid ""
+"Sorry, <strong>%s</strong> requires WordPress %s or higher. Please upgrade "
+"your WordPress setup."
+msgstr ""
+
+#: woocommerce-coming-soon.php:236
+#, php-format
+msgid ""
+"Sorry, <strong>%s</strong> requires WooCommerce to be installed and activatd "
+"first. Please <a href=\"%s\">install WooCommerce</a> first."
+msgstr ""
+
+#: woocommerce-coming-soon.php:247
+#, php-format
+msgid ""
+"Sorry, <strong>%s</strong> requires WooCommerce %s or higher. Please update "
+"WooCommerce for %s to work."
+msgstr ""

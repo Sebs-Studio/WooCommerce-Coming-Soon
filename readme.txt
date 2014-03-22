@@ -1,19 +1,21 @@
-# WooCommerce Coming Soon
+=== WooCommerce Coming Soon ===
 
-Contributors: sebd86
+Contributors: sebd86 
 Tags: woocommerce, extension, sebs studio, products
-Requires at least: 3.7.1
-Tested up to: 3.8.1
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-## Description
+Requires at least: 3.7.1 
+Tested up to: 3.8.1 
+Stable tag: trunk 
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 Enables you to display a message to customers saying the product is "Coming Soon" rather than "Out of Stock".
 
-## Localization
-* English (US)[Default] - always included. wc-coming-soon.pot file in language folder for translations.
+== Description ==
+
+Enables you to display a message to customers saying the product is "Coming Soon" rather than "Out of Stock".
+
+= Localization =
+* English (en_US) [Default] - always included. wc-coming-soon.pot file in language folder for translations.
 
 If you would like to do a translation for the plugin, you can do so via Transifex.  (https://www.transifex.com/projects/p/woocommerce-coming-soon/)
 
@@ -23,27 +25,23 @@ If you have done a translation via PoEdit, then you are welcome to send that als
 
 I'll acknowledge your contribution here with either your full name or username given.
 
-## Documentation
-
-For all documentation on this plugin go to: https://github.com/seb86/WooCommerce-Coming-Soon/wiki
-
-## Contributing
+= Contributing =
 
 To contribute to the plugin, visit https://github.com/seb86/WooCommerce-Coming-Soon/blob/master/CONTRIBUTING.md for details.
 
-## Installation
+== Installation ==
 
-__Minimum Requirements__
+= Minimum Requirements =
 
 * WooCommerce
 
-__Automatic installation__
+= Automatic installation =
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install of WooCommerce Coming Soon, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
 
 In the search field type "WooCommerce Coming Soon" and click Search Plugins. Once you've found my plugin extension you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by simply clicking Install Now. After clicking that link you will be asked if you're sure you want to install the plugin. Click yes and WordPress will automatically complete the installation.
 
-__Manual installation__
+= Manual installation =
 
 The manual installation method involves downloading my plugin and uploading it to your webserver via your favourite FTP application.
 
@@ -51,17 +49,17 @@ The manual installation method involves downloading my plugin and uploading it t
 2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory.
 3. Activate the plugin from the Plugins menu within the WordPress admin.
 
-## Upgrading
+= Upgrading =
 
 Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
-## Screenshots
+== Screenshots ==
 
- 1. Product Meta Data
- 2. Single Product Page
+1. Product Meta Data
+2. Single Product Page
 
-## Changelog
+== Changelog ==
 
-__1.0.0 - 22/03/2014__
+1.0.0 - 22/03/2014
 
 * Initial Release.
