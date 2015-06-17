@@ -35,7 +35,7 @@ function write_coming_soon_tab_panel(){
 }
 
 function write_coming_soon_tab_panel_save($post_id){
-	$woocommerce_product_coming_soon = isset($_POST['_set_coming_soon']) ? 'yes' : 'no';
+	$woocommerce_product_coming_soon = isset($_POST['_set_coming_soon']) ? 'yes' : '';
 	update_post_meta($post_id, '_set_coming_soon', $woocommerce_product_coming_soon);
 
 	if( isset( $_POST['_coming_soon_label'] ) ) {

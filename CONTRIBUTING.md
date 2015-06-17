@@ -2,7 +2,7 @@
 
 Community made patches, localisations, bug reports and contributions are always welcome and are crucial.
 
-When contributing please ensure you follow the guidelines below so that we can keep on top of things.
+When contributing please ensure you follow the guidelines below so that I can keep on top of things.
 
 __note__ GitHub is for bug reports and contributions only - if you have a support question or a request for a customisation don't post here. Use [WordPress Support Forum](http://wordpress.org/support/plugin/woocommerce-coming-soon) instead.
 

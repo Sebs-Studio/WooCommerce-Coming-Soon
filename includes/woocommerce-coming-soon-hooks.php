@@ -13,7 +13,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 // Write panel
-add_action( 'woocommerce_product_options_general_product_data', 'write_coming_soon_tab_panel' );
+add_action( 'woocommerce_inventory_options_general_product_data', 'write_coming_soon_tab_panel' );
 add_action( 'woocommerce_process_product_meta', 'write_coming_soon_tab_panel_save' );
 
 ?>
