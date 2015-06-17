@@ -11,6 +11,6 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
-add_filter( 'woocommerce_get_availability', 'change_stock_status_label', 10, 1 );
+add_filter( 'woocommerce_get_availability', 'change_stock_status_label', 10, 2 );
 
 ?>
