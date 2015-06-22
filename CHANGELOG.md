@@ -1,4 +1,5 @@
 ## 1.0.1 (23rd June 2015)
+
 * NOTE: This update has been long overdue.
 * Fixed issue with the coming soon message.
 * Improved code structure.

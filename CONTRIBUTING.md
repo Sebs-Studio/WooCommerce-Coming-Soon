@@ -12,16 +12,16 @@ GitHub is for *bug reports and contributions only* - if you have a support quest
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Submit a ticket for your issue, assuming one does not already exist.
-* https://github.com/Sebs-Studio/WooCommerce-Coming-Soon/issues
-* Clearly describe the issue including steps to reproduce when it is a bug.
-* Make sure you fill in the earliest version that you know that has the issue.
+  * https://github.com/Sebs-Studio/WooCommerce-Coming-Soon/issues
+  * Clearly describe the issue including steps to reproduce when it is a bug.
+  * Make sure you fill in the earliest version that you know that has the issue.
 
 ## Making Changes
 
 * Fork the repository on GitHub
 * Make the changes to your forked repository
-* **Ensure you stick to the [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards).**
-* Ensure you use LF line endings - no crazy Windows line endings. :)
+  * **Ensure you stick to the [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards).**
+  * Ensure you use LF line endings - no crazy Windows line endings. :)
 * When committing, reference your issue (#1234) and include a note about the fix.
 * Push the changes to your fork and submit a pull request to the 'dev' branch of the WooCommerce Coming Soon repository.
 * Please **don't** modify the changelog - this will be maintained by me.
