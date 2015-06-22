@@ -1,67 +1,19 @@
 # WooCommerce Coming Soon
 
-Contributors: sebd86
-Tags: woocommerce, extension, sebs studio, products
-Requires at least: 3.7.1
-Tested up to: 3.8.1
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+[![Designed for WooCommerce](http://img.shields.io/badge/Designed%20for-WooCommerce-a46497.svg?style=flat)](http://woothemes.com/woocommerce/) [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://raw.githubusercontent.com/Sebs-Studio/WooCommerce-Coming-Soon/master/license.txt) [![GitHub release](https://img.shields.io/github/release/Sebs-Studio/WooCommerce-Coming-Soon.svg?style=flat)](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon) [![Code Climate](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Coming-Soon/badges/gpa.svg?style=flat)](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Coming-Soon) [![WordPress](https://img.shields.io/wordpress/plugin/dt/woocommerce-coming-soon.svg?style=flat)](https://wordpress.org/plugins/woocommerce-coming-soon/) [![WordPress](https://img.shields.io/wordpress/v/woocommerce-coming-soon.svg?style=flat)](https://wordpress.org/plugins/woocommerce-coming-soon/)
 
 ## Description
 
 Enables you to display a message to customers saying the product is "Coming Soon" rather than "Out of Stock".
 
-## Localization
-* English (US)[Default] - always included. wc-coming-soon.pot file in language folder for translations.
-
-If you would like to do a translation for the plugin, you can do so via Transifex.  (https://www.transifex.com/projects/p/woocommerce-coming-soon/)
-
-Simply select or add a language you want to translate in and I will attach the language in the next version release. You will need an account on Transifex to do this.
-
-If you have done a translation via PoEdit, then you are welcome to send that also. To send your translation files contact me. (http://www.sebs-studio.com/contact/?contacting=Translations)
-
-I'll acknowledge your contribution here with either your full name or username given.
-
-## Documentation
-
-For all documentation on this plugin go to: https://github.com/seb86/WooCommerce-Coming-Soon/wiki
-
 ## Contributing
+If you have a patch, or stumbled upon an issue with the plugin, you can contribute this back to the code. Please read the [contributor guidelines](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon/blob/master/CONTRIBUTING.md) for more information how you can do this.
 
-To contribute to the plugin, visit https://github.com/seb86/WooCommerce-Coming-Soon/blob/master/CONTRIBUTING.md for details.
+### Support
+Use the WordPress.org forums for [community support](https://wordpress.org/support/plugin/woocommerce-coming-soon). If you spot a bug, you can of course log it on [Github](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon/issues) instead where I can act upon it more efficiently.
 
-## Installation
+Please consider making a [donation](http://www.sebastiendumont.com/donation/) or [write a review](https://wordpress.org/support/view/plugin-reviews/woocommerce-coming-soon?rate=5#postform).
 
-__Minimum Requirements__
-
-* WooCommerce
-
-__Automatic installation__
-
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install of WooCommerce Coming Soon, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
-
-In the search field type "WooCommerce Coming Soon" and click Search Plugins. Once you've found my plugin extension you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by simply clicking Install Now. After clicking that link you will be asked if you're sure you want to install the plugin. Click yes and WordPress will automatically complete the installation.
-
-__Manual installation__
-
-The manual installation method involves downloading my plugin and uploading it to your webserver via your favourite FTP application.
-
-1. Download the plugin file to your computer and unzip it
-2. Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's wp-content/plugins/ directory.
-3. Activate the plugin from the Plugins menu within the WordPress admin.
-
-## Upgrading
-
-Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
-
-## Screenshots
-
- 1. Product Meta Data
- 2. Single Product Page
-
-## Changelog
-
-__1.0.0 - 22/03/2014__
-
-* Initial Release.
+### More information
+* Other [WordPress plugins](http://profiles.wordpress.org/sebsstudio/) by [Sebs Studio](http://www.sebs-studio.com/)
+* Contact Sebastien on Twitter: [@sebsstudio](http://twitter.com/sebsstudio)

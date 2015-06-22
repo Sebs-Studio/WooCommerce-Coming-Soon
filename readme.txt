@@ -1,12 +1,12 @@
 === WooCommerce Coming Soon ===
 
-Contributors: sebd86 
-Tags: woocommerce, extension, sebs studio, products
-Requires at least: 3.7.1 
-Tested up to: 3.8.1 
-Stable tag: trunk 
-License: GPLv2 or later 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+Contributors: sebd86, sebsstudio
+Tags: woocommerce, extension, products, coming soon, sebs studio
+Requires at least: 4.2
+Tested up to: 4.2.2
+Stable tag: 1.0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Enables you to display a message to customers saying the product is "Coming Soon" rather than "Out of Stock".
 
@@ -59,7 +59,13 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 2. Single Product Page
 
 == Changelog ==
+= 1.0.1 - 23/06/2015 =
 
-1.0.0 - 22/03/2014
+* NOTE: This update has been long overdue.
+* Fixed issue with the coming soon message.
+* Improved code structure.
+* Improved inline documentation.
+
+= 1.0.0 - 22/03/2014 =
 
 * Initial Release.
