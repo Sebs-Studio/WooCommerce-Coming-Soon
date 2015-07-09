@@ -4,7 +4,11 @@
 
 ## Description
 
-Enables you to display a message to customers saying the product is "Coming Soon" rather than "Out of Stock".
+Sometimes your products are not quiet ready but you still wish to show your customers what you will be selling next. This small extension enables you to do just that by displaying a message to the customers "Coming Soon".
+
+This only works if the stock status is set to "Out of Stock" or the stock level of the product is ZERO.
+
+You can if you wish use a custom message that is unique per product. They don't all have to say the same.
 
 ## Contributing
 If you have a patch, or stumbled upon an issue with the plugin, you can contribute this back to the code. Please read the [contributor guidelines](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon/blob/master/CONTRIBUTING.md) for more information how you can do this.
