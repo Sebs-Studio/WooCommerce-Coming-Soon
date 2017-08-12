@@ -1,6 +1,8 @@
-# WooCommerce Coming Soon
+# WooCommerce Coming Soon - Legacy
 
 [![Designed for WooCommerce](http://img.shields.io/badge/Designed%20for-WooCommerce-a46497.svg?style=flat)](http://woothemes.com/woocommerce/) [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://raw.githubusercontent.com/Sebs-Studio/WooCommerce-Coming-Soon/master/woocommerce-coming-soon/license.txt) [![GitHub release](https://img.shields.io/github/release/Sebs-Studio/WooCommerce-Coming-Soon.svg?style=flat)](https://github.com/Sebs-Studio/WooCommerce-Coming-Soon) [![Code Climate](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Coming-Soon/badges/gpa.svg?style=flat)](https://codeclimate.com/github/Sebs-Studio/WooCommerce-Coming-Soon) [![WordPress](https://img.shields.io/wordpress/plugin/dt/woocommerce-coming-soon.svg?style=flat)](https://wordpress.org/plugins/woocommerce-coming-soon/) [![WordPress](https://img.shields.io/wordpress/v/woocommerce-coming-soon.svg?style=flat)](https://wordpress.org/plugins/woocommerce-coming-soon/)
+
+> This plugin is no longer maintained.
 
 ## Description
 
